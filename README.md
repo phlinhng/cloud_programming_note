@@ -24,8 +24,7 @@ pip3 install Boto3 awscli
 brew install python3
 ```
 Use `python3` & `pip3` to call python3, and `python` and `pip` for built-in python2.
-* (optional) **zsh**    
-Check [install_zsh_mac.md](./install_zsh_mac.md)
+* (optional) [**zsh**](./install_zsh_mac.md)
 * (optional) **iTerm 2**    
 ```
 brew cask install iTerm 2
