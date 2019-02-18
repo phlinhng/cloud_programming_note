@@ -40,6 +40,7 @@ R、Matlab、C++、Python
 * Configure with the root accountand default region "us-east-1"    
 ![username](./img/username.png)
 * Install **Java SDK** & **Eclipse**    
+![eclipse](./img/aws_eclipse.png)    
 See also [雲端程式設計開發環境安裝筆記](https://github.com/phlinhng/cloud_programming_note/blob/master/README.md)
 * Install **Python 3** & **Boto3**    
 ![pip3](./img/awscli_boto3.png)
