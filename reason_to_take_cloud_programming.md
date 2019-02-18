@@ -19,7 +19,7 @@ R、Matlab、C++、Python
 * 熟練嘸蝦米輸入法
 
 # 外語能力
-托福90 足以看懂大部分英語ocument
+托福90。足以看懂大部分英語document。
 
 # 雲平台相關經驗
 * 曾用過AWS、VPS供應商的服務自架VPN
