@@ -27,28 +27,28 @@ R、Matlab、C++、Python
 * 註冊國網中心"台灣杉一號"超級電腦帳號並在上面佈署作業系統
 
 # 己完成的checkpoint
-* Sign up for an AWS Account an redeem the student credit
+* Sign up for an AWS Account an redeem the student credit    
 * ![credit](./img/credit.png)
-* **CLI Console**: iTerm2 (Shell: zsh)
+* **CLI Console**: iTerm2 (Shell: zsh)    
 ![cli console](./img/cli-console.png)
-* **Web browser**: Safari, Google Chrome, Firefox
+* **Web browser**: Safari, Google Chrome, Firefox    
 * **SSH Client**: built-in with macOS
-* **Text Editor**: VSCode, Eclipse JEE
+* **Text Editor**: VSCode, Eclipse JEE    
 ![text editor](./img/text-editor.png)
-* Install **AWS CLI**
-![pip3](./img/awscli_boto3.png)
-** Configure with the root accountand default region "us-east-1"
+* Install **AWS CLI**    
+![pip3](./img/awscli_boto3.png)    
+* Configure with the root accountand default region "us-east-1"    
 ![username](./img/username.png)
-* Install **Java SDK** & **Eclipse**
+* Install **Java SDK** & **Eclipse**    
 See also [雲端程式設計開發環境安裝筆記](https://github.com/phlinhng/cloud_programming_note/blob/master/README.md)
-* Install **Python 3** & **Boto3**
+* Install **Python 3** & **Boto3**    
 ![pip3](./img/awscli_boto3.png)
 
 # Github帳號
 https://github.com/phlinhng
 
 # 有利審查的附件
-+ [Data Mining課堂作業1](https://github.com/phlinhng/dm_2018_hw_1)
++ [Data Mining課堂作業1](https://github.com/phlinhng/dm_2018_hw_1)
 + [Data Mining課堂作業2](https://www.kaggle.com/phlinhng/dm-hw2-103032027)
 + [雲端程式設計開發環境安裝筆記](https://github.com/phlinhng/cloud_programming_note/blob/master/README.md)
 
