@@ -3,9 +3,13 @@ This tutorial is for macOS.
 ## Building environment for the course
 
 ### 1. Install Java & Eclipse for JEE
-`brew cask install java brew eclipse-jee`
+```
+brew cask install java brew eclipse-jee
+```
 ### 2. Install AWS-CLI & Boto3 for Python 3
-`pip3 install Boto3 awscli`
+```
+pip3 install Boto3 awscli
+```
 
 ### 3. Install [AWS Toolkit for Eclipse](https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/getting-started.html)
 
@@ -23,4 +27,6 @@ Use `python3` & `pip3` to call python3, and `python` and `pip` for built-in pyth
 * (optional) zsh    
 Check [install_zsh_mac.md](./install_zsh_mac.md)
 * (optional) iTerm 2    
-`brew cask install iTerm 2`
+```
+brew cask install iTerm 2
+```
