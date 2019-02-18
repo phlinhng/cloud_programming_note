@@ -37,7 +37,7 @@ R、Matlab、C++、Python
 ![text editor](./img/text-editor.png)
 * Install **AWS CLI**    
 ![pip3](./img/awscli_boto3.png)    
-* Configure with the root accountand default region "us-east-1"    
+* Configure with the root account and default region "us-east-1"    
 ![username](./img/username.png)
 * Install **Java SDK** & **Eclipse**    
 ![eclipse](./img/aws_eclipse.png)    
