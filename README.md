@@ -4,7 +4,7 @@ This tutorial is for macOS.
 
 ### 1. Install Java & Eclipse for JEE
 ```
-brew cask install java brew eclipse-jee
+brew cask install java eclipse-jee
 ```
 ### 2. Install AWS-CLI & Boto3 for Python 3
 ```
